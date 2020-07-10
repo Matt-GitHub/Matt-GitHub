@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hey, thanks for dropping by!</h3>
-<h3 align="center">Use this as your guide to learn more about me, navigate my work, and see what I am currently working on!</h3>
+<h3 width="70%" align="center">Use this as your guide to learn more about me, navigate my work, and see what I am currently working on!</h3>
 
 <p align="center">
   <a href="https://MatthewBedard.dev">Portfolio</a> •
