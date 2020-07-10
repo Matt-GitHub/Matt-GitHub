@@ -2,8 +2,9 @@
 <h4 width="70%" align="center">Use this as your guide to learn more about me and navigate my work</h4>
 
 <p align="center">
-  <a href="https://MatthewBedard.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/matthew-bedard-dev/">Linked In</a>
+  <a target="blank" href="https://MatthewBedard.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/matthew-bedard-dev/">Linked In</a> •
+  <a href="https://twitter.com/Matthew_Bedard_">Twitter</a>
 </p>
 
 
