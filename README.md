@@ -10,7 +10,7 @@
 
 ## About me
 I am a Front End Software Engineer that loves to develop applications that have high impact and reach. 
-Current Tech Stack:
+\n Current Tech Stack:
 - PostgreSQL
 - Express
 - React
