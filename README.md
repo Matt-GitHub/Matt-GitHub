@@ -9,7 +9,7 @@
 
 
 ## About me
-I am a Front End Software Engineer that loves to develop applications that have high impact and reach. My primary skills are in JavaScript, React, and Node JS. Below you can find my current and past projects. Feel free to reach out if you want to collaborate on a project or talk about tech!
+I am a Front End Software Engineer that loves to develop applications that have high impact and reach. My primary skills are in JavaScript, React, and Node JS. Feel free to reach out if you want to collaborate on a project or talk about tech!
 
 ## Past Projects
 
