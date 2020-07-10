@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey</h3>
+<h2 align="center">👋 Hey</h2>
 <h3 align="center">Thanks for visiting my profile </h3>
 <p align="center">
   <a href="https://MatthewBedard.dev">Portfolio</a> •
