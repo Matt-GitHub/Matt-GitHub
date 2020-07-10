@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hey</h2>
-<h3 align="center">Thanks for visiting my profile </h3>
+<h3 align="center">👋 Hey</h3>
+<h4 align="center">Thanks for visiting my profile </h4>
 <p align="center">
   <a href="https://MatthewBedard.dev">Portfolio</a> •
   <a href="https://www.linkedin.com/in/matthew-bedard-dev/">Linked In</a>
