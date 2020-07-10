@@ -1,4 +1,8 @@
-# ->Hi there 👋<-
+<h2 align="center">👋 Hey! Thanks for visiting my profile </h2>
+<p align="center">
+  <a href="https://MatthewBedard.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/matthew-bedard-dev/">Linked In</a>
+</p>
 
 <!--
 **Matt-GitHub/Matt-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
