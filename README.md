@@ -1,5 +1,4 @@
-<h3 align="center">👋 Hey</h3>
-<h4 align="center">Thanks for visiting my profile </h4>
+<h3 align="center">👋 Hey, thanks for dropping by! Use this as your guide to learn more about me, navigate my work, and see what I am currently working on!</h3>
 <p align="center">
   <a href="https://MatthewBedard.dev">Portfolio</a> •
   <a href="https://www.linkedin.com/in/matthew-bedard-dev/">Linked In</a>
