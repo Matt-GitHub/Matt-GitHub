@@ -18,7 +18,7 @@ Tech Stack:
 - Node.js
 
 ## Past Projects
-1. So Me
+**So Me
 
 So Me is a social media manager capable of scheduling tweets and managing engagement statistics coupled with data science that enables a user to gauge what is the optimal posting time and how effective a tweet will be to their following.
 
