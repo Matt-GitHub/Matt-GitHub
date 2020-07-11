@@ -28,7 +28,7 @@ So Me is a social media manager capable of scheduling tweets and managing engage
 
 Check out the project → [So Me](so-me.net)
 
-Check our the code -> [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
+Check our the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
 
 
 ## Working On
