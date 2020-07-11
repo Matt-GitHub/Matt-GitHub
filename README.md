@@ -36,7 +36,7 @@ Check our the code → [Code](https://github.com/Matt-GitHub/social-media-strate
 
 Redesigning the way we teach students how to learn Data Structures and Algorithms. Resources for learning these concepts in JS are far and few between and when you find a resource it is riddled with university level engineering and math jargon. Illustrated JS aims to teach students the fundamentals of computer science by illustrating the decision making process and creating examples that resonate with our audience. 
 
-Check out a writing sample → [Illustrated JS Notes] (https://www.notion.so/Singly-Linked-List-With-Tail-18c0b8021cf64012a55661825f64079a)
+Check out a writing sample → [Illustrated JS Notes](https://www.notion.so/Singly-Linked-List-With-Tail-18c0b8021cf64012a55661825f64079a)
 
 <h3 align="center">🔭 Thanks for taking a look!</h3>
 
