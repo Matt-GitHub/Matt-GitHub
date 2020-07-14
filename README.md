@@ -9,7 +9,7 @@
 
 
 ## About me
-I am a Front End Software Engineer that loves to develop applications that have high impact and reach. Currently spend most of my time diving deep into javaScript, designing applications for accessibility, and staying up to date on the lastest security measures.
+I am a Front End Software Engineer that loves to develop applications that have high impact and reach. Currently spend most of my time diving deep into JavaScript, designing applications for accessibility, and staying up to date on the lastest security measures.
 
 Tech Stack:
 - PostgreSQL
