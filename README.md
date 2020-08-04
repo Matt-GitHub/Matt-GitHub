@@ -35,7 +35,7 @@ So Me is a social media manager capable of scheduling tweets and managing engage
 - Implemented Twitter's API enabling users to draft, schedule and post tweets to any of their accounts
 - Led consultations with product stakeholders and real-world users in a SCRUM environment 
 
-Check out the project → [So Me](so-me.net)
+Check out the project → [So Me](https://www.so-me.net/)
 
 Check our the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
 
