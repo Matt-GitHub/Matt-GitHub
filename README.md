@@ -17,6 +17,15 @@ Tech Stack:
 - React
 - Node.js
 
+## Working On
+**Illustrated JS**
+
+Redesigning the way we teach students how to learn Data Structures and Algorithms. Resources for learning these concepts in JS are far and few between and when you find a resource it is riddled with university level engineering and math jargon. Illustrated JS aims to teach students the fundamentals of computer science by illustrating the decision making process and creating examples that resonate with our audience. 
+
+Check out the project → [Illustrated JS Notes](https://laughing-jones-5d5aec.netlify.app/)
+
+Check our the code → [Code](https://github.com/Matt-GitHub/Illustrated)
+
 ## Past Projects
 **So Me**
 
@@ -31,11 +40,6 @@ Check out the project → [So Me](so-me.net)
 Check our the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
 
 
-## Working On
-**Illustrated JS**
 
-Redesigning the way we teach students how to learn Data Structures and Algorithms. Resources for learning these concepts in JS are far and few between and when you find a resource it is riddled with university level engineering and math jargon. Illustrated JS aims to teach students the fundamentals of computer science by illustrating the decision making process and creating examples that resonate with our audience. 
-
-Check out a writing sample → [Illustrated JS Notes](https://www.notion.so/Singly-Linked-List-With-Tail-18c0b8021cf64012a55661825f64079a)
 
 
