@@ -37,7 +37,9 @@ So Me is a social media manager capable of scheduling tweets and managing engage
 
 Check out the project → [So Me](https://www.so-me.net/)
 
-Check our the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
+Check out the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
+
+<br>
 
 **IMBD Movie Finder**
 
@@ -49,7 +51,7 @@ Utilizing the Open Movie DataBase API I was able to create an app that allows yo
 
 Check out the project → [IMBD Movie Finder](https://shopify-shoppies-intern-app.netlify.app/)
 
-Check our the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
+Check out the code → [Code](https://github.com/Matt-GitHub/IMBD-Movie-Finder)
 
 
 
