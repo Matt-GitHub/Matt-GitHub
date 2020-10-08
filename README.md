@@ -20,7 +20,7 @@ Tech Stack:
 ## Working On
 **Illustrated JS**
 
-Redesigning the way we teach students how to learn Data Structures and Algorithms. Resources for learning these concepts in JS are far and few between and when you find a resource it is riddled with university level engineering and math jargon. Illustrated JS aims to teach students the fundamentals of computer science by illustrating the decision making process and creating examples that resonate with our audience. 
+Redesigning the way we teach students how to learn Data Structures and Algorithms. Resources for learning these concepts in JS are far and few between and when you find a resource it is riddled with university level engineering and math jargon. Illustrated JS aims to teach students the fundamentals of computer science by illustrating the decision making process and creating examples that resonate with our target audience. 
 
 Check out a writing sample → [Illustrated JS ](https://illustratedjs.io/)
 
