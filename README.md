@@ -49,8 +49,6 @@ Utilizing the Open Movie DataBase API I was able to create an app that allows yo
 - Advanced querys that allow a user to search for a movie and then re-query all results to get access to more detailed info
 - Built out results pagination so users can access all query matches (only shows 10 movies per page)
 
-Check out the project → [IMBD Movie Finder](https://shopify-shoppies-intern-app.netlify.app/)
-
 Check out the code → [Code](https://github.com/Matt-GitHub/IMBD-Movie-Finder)
 
 
