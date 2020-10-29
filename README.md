@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey, thank you for dropping by!</h3>
+<h3 align="center">👋 Hey, thanks for dropping by!</h3>
 <h4 width="70%" align="center">Use this as your guide to navigate my work</h4>
 
 <p align="center">
