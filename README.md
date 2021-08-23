@@ -2,8 +2,6 @@
 <h4 width="70%" align="center">Use this as your guide to navigate my work</h4>
 
 <p align="center">
-  <a href="https://MatthewBedard.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/matthew-bedard-dev/">Linked In</a> •
   <a href="https://twitter.com/Matthew_Bedard_">Twitter</a>
 </p>
 
@@ -31,16 +29,6 @@ Check out the project → [So Me](https://www.so-me.net/)
 Check out the code → [Code](https://github.com/Matt-GitHub/social-media-strategy-fe)
 
 <br>
-
-**IMBD Movie Finder**
-
-Utilizing the Open Movie DataBase API I was able to create an app that allows you to search for any movie in the database and get access to information such as the title, release date, genre and ratings.
-
-- Search functionality built using custom hooks and context api
-- Advanced querys that allow a user to search for a movie and then re-query all results to get access to more detailed info
-- Built out results pagination so users can access all query matches (only shows 10 movies per page)
-
-Check out the code → [Code](https://github.com/Matt-GitHub/IMBD-Movie-Finder)
 
 
 
